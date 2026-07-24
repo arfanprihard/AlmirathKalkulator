@@ -21,19 +21,19 @@ Berikut adalah poster informasi dan tampilan antarmuka dari aplikasi Kalkulator 
 
 Aplikasi ini dilengkapi dengan 5 fitur utama yang dirancang agar *user-friendly*, sederhana, dan memiliki navigasi yang mudah:
 
-1. 🧮 **Kalkulator Al-Mirats (Faraid)**
+1. **Kalkulator Al-Mirats (Faraid)**
    Menghitung pembagian harta waris secara akurat. Mendukung pengurangan harta otomatis untuk pengurusan kewajiban pewaris (seperti hutang, wasiat, dan biaya perawatan jenazah) sebelum pembagian dilakukan.
    
-2. 📚 **Materi Edukasi**
+2. **Materi Edukasi**
    Menyediakan bahan pembelajaran komprehensif mengenai konsep dan hukum waris Islam yang bersumber dari rujukan terpercaya.
 
-3. ❓ **Tutorial Penggunaan**
+3. **Tutorial Penggunaan**
    Panduan langkah demi langkah yang memberikan petunjuk interaktif mengenai cara menggunakan aplikasi agar pengguna tidak kebingungan.
 
-4. 💬 **Umpan Balik (Feedback)**
+4. **Umpan Balik (Feedback)**
    Fasilitas bagi pengguna untuk mengirimkan saran, kritik, atau penilaian terkait aplikasi demi pengembangan lebih lanjut secara *real-time*.
 
-5. ℹ️ **Tentang Aplikasi**
+5. **Tentang Aplikasi**
    Informasi detail mengenai pengembang aplikasi (Tim Marbay), dosen pembimbing, klien, serta sumber konten yang digunakan.
 
 ---
